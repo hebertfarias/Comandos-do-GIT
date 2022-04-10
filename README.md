@@ -1,4 +1,4 @@
-# Comandos-do-GIT
+# Comandos do GIT
 Lista de comandos do GIT
 
 ## Link Úteis
